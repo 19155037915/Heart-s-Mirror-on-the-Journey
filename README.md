@@ -9,4 +9,4 @@ This work implements a real-time ECG monitoring system on an AMD FPGA platform. 
 #### 心电信号采集与处理
 #### SD卡本地存储
 # 作品设计报告
-## 40490.pdf
+## 46490.pdf
